@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Portfolio",
   "resources": {
-    "hash": "sha256-2d9rtF5nKq9fZ8WeAiAfeoxMFBW/ZTXkw7QgyNEeSu8=",
+    "hash": "sha256-Ua12gaNmW2bKeL36gq+Q4B9Il+egf1c6c8N1GtjYdKA=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.gf26ou9jj9.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.Forms.n0ihslit6r.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -36,7 +36,7 @@
       "MudBlazor.ThemeManager.bhaa8tciji.wasm": "MudBlazor.ThemeManager.wasm",
       "MudBlazor.wvj158o78q.wasm": "MudBlazor.wasm",
       "netstandard.d82br99ghv.wasm": "netstandard.wasm",
-      "Portfolio.qtq3hbfp4v.wasm": "Portfolio.wasm",
+      "Portfolio.ykwc12ot1o.wasm": "Portfolio.wasm",
       "System.AppContext.brstoo7rmv.wasm": "System.AppContext.wasm",
       "System.Buffers.y31fti4j86.wasm": "System.Buffers.wasm",
       "System.Collections.Concurrent.mh8re3j7k9.wasm": "System.Collections.Concurrent.wasm",
@@ -259,7 +259,7 @@
       "MudBlazor.ThemeManager.bhaa8tciji.wasm": "sha256-cdDmfVptqxbjjMQmv1b3lFxkxYzH4HdJfRvnmj+YL24=",
       "MudBlazor.wvj158o78q.wasm": "sha256-7J8jUqdN9zdCB8U4Gwda8+Z49bGkvrrE22yAJE4sV8w=",
       "netstandard.d82br99ghv.wasm": "sha256-DS8keXxU4eQpa1kIoiFxOA2Ii2g9hoNWSaVi8F8AnIE=",
-      "Portfolio.qtq3hbfp4v.wasm": "sha256-jpeB+BVgJLgeq87aTW/JRUW3IJuP7X7K5Vo8t2476OU=",
+      "Portfolio.ykwc12ot1o.wasm": "sha256-DifweVP9Rrj3cCo3EOMM5CIb+BHk+GgSJszP+wtOnGE=",
       "System.AppContext.brstoo7rmv.wasm": "sha256-196HubQ/JLlNRlgKY2ZOzlsJcZ49dYheno0cAXVlcz8=",
       "System.Buffers.y31fti4j86.wasm": "sha256-XnisN6NBGZNaOLqquJVMDLJSfc5COypC+IK0pM8pVs0=",
       "System.Collections.Concurrent.mh8re3j7k9.wasm": "sha256-RvLb6OMG5h/AX/NR2E+cp8TL3rEWN+SRiarrrlF4hU0=",
@@ -422,6 +422,7 @@
       "WindowsBase.5lai2eowco.wasm": "sha256-GcDi5293y2A7oSiFYTbBTUe0d+ISbvgeel4ZNd8KkPM="
     }
   },
+  "cacheBootResources": true,
   "debugLevel": 0,
   "globalizationMode": "sharded",
   "extensions": {
